@@ -5,6 +5,7 @@ public class comapny
 {
 public static void main(String args[]) throws ClassNotFoundException, SQLException
 {
+	System.out.println("hai");
 	/*Scanner sc=new Scanner(System.in);
 	System.out.println("enter the given input following");
 	System.out.println("1.adding company details");
